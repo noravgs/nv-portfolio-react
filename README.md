@@ -2,7 +2,7 @@
 Portfolio made with React and Tailwind CSS
 **Link to project:** https://noravgs.netlify.app/
 
-![image]()
+![image](https://github.com/noravgs/nv-portfolio-react/blob/main/src/assets/portfolioimg.png?raw=true)
 
 ## How It's Made:
 
