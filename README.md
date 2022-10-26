@@ -8,16 +8,8 @@ Portfolio made with React and Tailwind CSS
 
 **Tech used:** JavaScript, React, Tailwind CSS and Hacker News API
 
-In this project, I used React in order to understand reusability of components. I used tailwind to facilitate styling.  
+In this project, I used React in order to understand reusability of components. I used tailwind to facilitate styling. Created internal database to store and fetch projects. 
 
-## Optimizations:
-(optional)
-
-Having more time I would continue creating the rest of the components for more user interaction. Add a MongoDB to store users,shops and orders. 
-
-## Lessons Learned:
-
-While working with React it made the process of creating an APP cleaner and easier. Organizing and styling with Tailwind made the process faster and adaptable. Being able to make the site responsive in the same page as your elements was a game changer.
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
