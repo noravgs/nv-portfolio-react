@@ -31,8 +31,8 @@ export const data=[
         id:4,
         name:"Hacker News Api, ReactJS, Taildwind Application",
         image:hrkn,
-        github:"https://github.com/noravgs/mix-it-up-API",
-        live:"https://noravgs.github.io/mix-it-up-API/",
+        github:"https://github.com/noravgs/hkr-news",
+        live:"https://hkr-news.netlify.app/",
     },
     {
         id:5,
