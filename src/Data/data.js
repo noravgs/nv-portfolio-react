@@ -1,7 +1,7 @@
 import Bb from '../assets/bbimg.png'
 import Crypto from '../assets/cryptoimg.png'
 import Mix from '../assets/miximg.png'
-import Poke from '../assets/pokeimg.png'
+import Gym from '../assets/gym.png'
 import hrkn from '../assets/hkrnimg.png'
 import instant from '../assets/instantimg.png'
 
@@ -43,10 +43,10 @@ export const data=[
     },
     {
         id:6,
-        name:"Pokemon Api Application",
-        image:Poke,
-        github:"https://github.com/noravgs/poke-api",
-        live:" https://noravgs.github.io/poke-api/",
+        name:"Level Ground Gym React Website",
+        image:Gym,
+        github:"https://github.com/noravgs/level-ground-react",
+        live:" https://lg-gym.netlify.app/",
     },
 
 
