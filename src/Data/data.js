@@ -2,7 +2,7 @@ import Bb from '../assets/bbimg.png'
 import Crypto from '../assets/cryptoimg.png'
 import Mix from '../assets/miximg.png'
 import Gym from '../assets/gym.png'
-import hrkn from '../assets/hkrnimg.png'
+import Salon from '../assets/salon.png'
 import instant from '../assets/instantimg.png'
 
 export const data=[
@@ -22,17 +22,17 @@ export const data=[
     },
     {
         id:3,
-        name:"ReactJS Application",
+        name:"ReactJS Coingecko API Application",
         image:Crypto,
         github:"https://github.com/noravgs/crypto-app",
         live:"http://noravgs.github.io/crypto-app",
     },
     {
         id:4,
-        name:"Hacker News Api, ReactJS, Taildwind Application",
-        image:hrkn,
-        github:"https://github.com/noravgs/hkr-news",
-        live:"https://hkr-news.netlify.app/",
+        name:"Monarch Salon React Website",
+        image:Salon,
+        github:"https://github.com/noravgs/monarch-salon-react",
+        live:"https://monarch-salon.netlify.app/",
     },
     {
         id:5,
