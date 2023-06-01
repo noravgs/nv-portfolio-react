@@ -11,7 +11,7 @@ return (
  <div name='work' className='w-full md:h-screen text-gray-200 bg-[#074f57]'>
    <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
      <div className='lg:text-4xl flex flex-col justify-center items-center sm:text-right pb-8 pl-4'>
-       <p className='text-4xl font-bold inline border-b-4 border-[#ade1e5]'>
+       <p className='pt-6 text-4xl font-bold inline border-b-4 border-[#ade1e5]'>
          Work
        </p>
        <p className='py-6'>// Check out some of my recent work</p>

@@ -1,5 +1,6 @@
 import About from "./components/About";
 import Contact from "./components/Contact";
+import Designs from "./components/Designs";
 import Footer from "./components/Footer";
 import Heroimg from "./components/Heroimg";
 import Home from "./components/Home";
@@ -13,10 +14,11 @@ function App() {
     <div >
       <Navbar />
       <Home />
-      <Heroimg />
+      {/* <Heroimg /> */}
       <About />
       <Skills />
       <Work />
+      <Designs />
       <Contact />
       <Footer />
     </div>
