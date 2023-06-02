@@ -1,19 +1,22 @@
 import React from 'react'
 import Photo1 from '../assets/moHome.png'
 import Photo2 from '../assets/moAboutUs.png'
-import Photo3 from '../assets/gaishabrandingBoard2.png'
-import Photo4 from '../assets/wrench.png'
-import Photo5 from '../assets/geishaPattern3.png'
-import Photo6 from '../assets/geishaproductposter.png'
+
+import Photo4 from '../assets/enigmaHome.png'
+import Photo5 from '../assets/enigmaEvents.png'
+import Photo6 from '../assets/enigmaAboutUs.png'
 import Photo7 from '../assets/tacoDGOHome.png'
 import Photo8 from '../assets/tacoDGOMenu.png'
 import Photo9 from '../assets/tacoDGOAboutUs.png'
 // import Photo8 from '../assets/collabx.jpg'
 // import Photo9 from '../assets/collabXprototype.jpg'
 import Photo10 from '../assets/QuirkzbrandingBoard2.png'
-import Photo11 from '../assets/QHoodie_Mockup.png'
-import Photo12 from '../assets/qPattern2.png'
-
+import Photo11 from '../assets/qPattern2.png'
+import Photo12 from '../assets/QHoodie_Mockup.png'
+import Photo13 from '../assets/gaishabrandingBoard2.png'
+import Photo14 from '../assets/geishaPattern3.png'
+import Photo15 from '../assets/Gyellow.png'
+import Photo16 from '../assets/geishaproductposter.png'
 
 
 
@@ -46,50 +49,59 @@ const Designs = () => {
     
     </div>
    
-<div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+<div class="grid grid-cols-2 md:grid-cols-4 gap-1">
     <div class="grid gap-4">
         <div>
-            <img class="h-auto max-w-full rounded-lg" src={Photo1} alt=""/>
+            <img class="h-auto max-w-full rounded-lg" src={Photo1} alt=""/><img class="h-auto max-w-full rounded-lg" src={Photo2} alt=""/>
         </div>
-        <div>
-            <img class="h-auto max-w-full rounded-lg" src={Photo2} alt=""/>
-        </div>
-        <div>
+        {/* <div>
+            
+        </div> */}
+        {/* <div>
             <img class="h-auto max-w-full rounded-lg" src={Photo3} alt=""/>
-        </div>
+        </div> */}
     </div>
     <div class="grid gap-4">
         <div>
             <img class="h-auto max-w-full rounded-lg" src={Photo4} alt=""/>
-        </div>
-        <div>
             <img class="h-auto max-w-full rounded-lg" src={Photo5} alt=""/>
-        </div>
-        <div>
             <img class="h-auto max-w-full rounded-lg" src={Photo6} alt=""/>
         </div>
+        {/* <div>
+            
+        </div>
+        <div>
+            
+        </div> */}
     </div>
     <div class="grid gap-4">
         <div>
             <img class="h-auto max-w-full rounded-lg" src={Photo7} alt=""/>
-        </div>
-        <div>
             <img class="h-auto max-w-full rounded-lg" src={Photo8} alt=""/>
-        </div>
-        <div>
             <img class="h-auto max-w-full rounded-lg" src={Photo9} alt=""/>
         </div>
+        {/* <div>
+            
+        </div>
+        <div>
+            
+        </div> */}
     </div>
     <div class="grid gap-4">
         <div>
             <img class="h-auto max-w-full rounded-lg" src={Photo10} alt=""/>
-        </div>
-        <div>
             <img class="h-auto max-w-full rounded-lg" src={Photo11} alt=""/>
-        </div>
-        <div>
             <img class="h-auto max-w-full rounded-lg" src={Photo12} alt=""/>
         </div>
+        <div>
+        <img class="h-auto max-w-full rounded-lg" src={Photo13} alt=""/>
+        <img class="h-auto max-w-full rounded-lg" src={Photo14} alt=""/>
+        <img class="h-auto max-w-full rounded-lg" src={Photo15} alt=""/>
+        <img class="h-auto max-w-full rounded-lg" src={Photo16} alt=""/>
+        </div>
+        {/* <div>
+            
+        </div> */}
     </div>
 </div>
 
