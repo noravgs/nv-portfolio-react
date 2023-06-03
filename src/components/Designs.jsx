@@ -49,7 +49,7 @@ const Designs = () => {
     
     </div>
    
-<div class="grid grid-cols-2 md:grid-cols-4 gap-1">
+<div class="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4  gap-1">
     <div class="grid gap-4">
         <div>
             <img class="h-auto max-w-full rounded-lg" src={Photo1} alt=""/><img class="h-auto max-w-full rounded-lg" src={Photo2} alt=""/>
