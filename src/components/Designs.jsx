@@ -34,8 +34,8 @@ const Designs = () => {
      <div></div>
      </div>
      <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
-      <div className='sm:text-center text-4xl font-bold'>
-       <p>Here are some Branding and web designs I recently worked on</p>
+      <div className='sm:text-center text-3xl font-bold'>
+       <p>Check out my latest branding and web designs.</p>
       </div>
       <div>
           <p>I harness the incredible potential of Adobe and Figma to unleash a symphony of creativity that leaves an indelible mark. With an unwavering focus on elevating business brands, I channel my passion into crafting visually captivating and strategically driven designs.I immerse myself in a world of color, typography, and imagery, meticulously curating every element to breathe life into a brand's unique identity. From sleek and modern aesthetics to dynamic and vibrant experiences, I orchestrate designs that make hearts skip a beat and minds ignite with curiosity.</p>
