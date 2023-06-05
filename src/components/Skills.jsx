@@ -11,7 +11,7 @@ const Skills = () => {
       
     </div>
     <div></div>
-     <div className='skills w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8'><p className='sm:text-right text-4xl font-bold py-4'>// These are the technologies I've worked with</p>
+     <div className='skills w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8'><p className='sm:text-center text-3xl font-bold py-4'>// These are the technologies I've worked with</p>
        <div className="skillsGrid">
                 {/*  Create a div and give it a class of skillsGrid for styling */}
             
