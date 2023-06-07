@@ -3,15 +3,15 @@ import Skill from '../Skill'
 
 const Skills = () => {
  return (
-  <div name='skills' className='p-8 w-full h-screen bg-[#73AB84] text-gray-200'>
+  <div name='skills' className='w-full md:h-screen bg-[#73AB84] text-gray-200'>
    {/* container */}
-   <div className='max-w-[1000px] mx-auto flex flex-col justify-center w-full h-full'>
-    <div className='lg:text-4xl flex flex-col justify-center items-center sm:text-right pb-8 pl-4'>
-      <p className='text-4xl font-bold inline border-b-4 border-[#ade1e5]'>Skills</p>
-      
-    </div>
+   <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
+     <div className='lg:text-3xl flex flex-col justify-center items-center sm:text-center pb-8 pl-4'>
+      </div>
     <div></div>
-     <div className='skills w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8'><p className='sm:text-center text-3xl font-bold py-4'>// These are the technologies I've worked with</p>
+     <div className='skills w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-6'>
+       <p className='text-4xl font-bold inline border-b-4 border-[#ade1e5]'>Skills</p>
+      <p className='sm:text-center text-3xl font-bold py-6'>// My latest expertise in tech languages, frameworks, and tools. </p>
        <div className="skillsGrid">
                 {/*  Create a div and give it a class of skillsGrid for styling */}
             
