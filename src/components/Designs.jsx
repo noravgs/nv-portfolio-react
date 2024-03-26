@@ -17,6 +17,11 @@ import Photo13 from '../assets/gaishabrandingBoard2.png'
 import Photo14 from '../assets/geishaPattern3.png'
 import Photo15 from '../assets/Gyellow.png'
 import Photo16 from '../assets/geishaproductposter.png'
+import Photo17 from '../assets/welcome-email.png'
+import Photo18 from '../assets/phonex-features-email.png'
+import Photo19 from '../assets/socials-email.png'
+import Photo20 from '../assets/trillion-brochure.png'
+import Photo21 from '../assets/trillion-flyer.png'
 
 
 
@@ -52,7 +57,28 @@ const Designs = () => {
 <div class="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4  gap-1">
     <div class="grid gap-4">
         <div>
-            <img class="h-auto max-w-full rounded-lg" src={Photo1} alt=""/><img class="h-auto max-w-full rounded-lg" src={Photo2} alt=""/>
+            <img class="h-auto max-w-full rounded-lg" src={Photo17} alt=""/>
+            {/* <img class="h-auto max-w-full rounded-lg" src={Photo17} alt=""/> */}
+        </div>
+        <div>
+            {/* <img class="h-auto max-w-full rounded-lg" src={Photo18} alt=""/> */}
+            <img class="h-auto max-w-full rounded-lg" src={Photo7} alt=""/>
+        </div>
+        <div>
+            {/* <img class="h-auto max-w-full rounded-lg" src={Photo12} alt=""/> */}
+            {/* <img class="h-auto max-w-full rounded-lg" src={Photo19} alt=""/> */}
+        </div>
+        <div>
+            <img class="h-auto max-w-full rounded-lg" src={Photo13} alt=""/>
+            {/* <img class="h-auto max-w-full rounded-lg" src={Photo10} alt=""/> */}
+        </div>
+        <div>
+            {/* <img class="h-auto max-w-full rounded-lg" src={Photo11} alt=""/> */}
+            <img class="h-auto max-w-full rounded-lg" src={Photo14} alt=""/>
+        </div>
+        <div>
+            {/* <img class="h-auto max-w-full rounded-lg" src={Photo1} alt=""/>
+            <img class="h-auto max-w-full rounded-lg" src={Photo2} alt=""/> */}
         </div>
         {/* <div>
             
@@ -76,7 +102,7 @@ const Designs = () => {
     </div>
     <div class="grid gap-4">
         <div>
-            <img class="h-auto max-w-full rounded-lg" src={Photo7} alt=""/>
+            <img class="h-auto max-w-full rounded-lg" src={Photo18} alt=""/>
             <img class="h-auto max-w-full rounded-lg" src={Photo8} alt=""/>
             <img class="h-auto max-w-full rounded-lg" src={Photo9} alt=""/>
         </div>
@@ -89,13 +115,13 @@ const Designs = () => {
     </div>
     <div class="grid gap-4">
         <div>
-            <img class="h-auto max-w-full rounded-lg" src={Photo10} alt=""/>
-            <img class="h-auto max-w-full rounded-lg" src={Photo11} alt=""/>
-            <img class="h-auto max-w-full rounded-lg" src={Photo12} alt=""/>
+            <img class="h-auto max-w-full rounded-lg" src={Photo20} alt=""/>
+            <img class="h-auto max-w-full rounded-lg" src={Photo21} alt=""/>
+            <img class="h-auto max-w-full rounded-lg" src={Photo19} alt=""/>
         </div>
         <div>
-        <img class="h-auto max-w-full rounded-lg" src={Photo13} alt=""/>
-        <img class="h-auto max-w-full rounded-lg" src={Photo14} alt=""/>
+        <img class="h-auto max-w-full rounded-lg" src={Photo20} alt=""/>
+        <img class="h-auto max-w-full rounded-lg" src={Photo21} alt=""/>
         <img class="h-auto max-w-full rounded-lg" src={Photo15} alt=""/>
         <img class="h-auto max-w-full rounded-lg" src={Photo16} alt=""/>
         </div>
