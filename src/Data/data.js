@@ -6,7 +6,7 @@ import Salon from '../assets/salon.png'
 import instant from '../assets/instantimg.png'
 import Geisha from '../assets//geishaThum.png'
 import Trillion from '../assets/trillion.png'
-import TalkTek from '../assets/talktek.png'
+import TalkTek from '../assets/ttshop.png'
 import Algo from '../assets/algo.png'
 import AlgoF from '../assets/algof.png'
 
