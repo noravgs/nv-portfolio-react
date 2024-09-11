@@ -40,10 +40,10 @@ const Designs = () => {
      </div>
      <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
       <div className='sm:text-center text-3xl font-bold'>
-       <p>Check out my latest branding and web designs.</p>
+       <p>My latest branding, email campaings, print assets and web designs.</p>
       </div>
       <div>
-          <p>I harness the incredible potential of Adobe and Figma to unleash a symphony of creativity that leaves an indelible mark. With an unwavering focus on elevating business brands, I channel my passion into crafting visually captivating and strategically driven designs.I immerse myself in a world of color, typography, and imagery, meticulously curating every element to breathe life into a brand's unique identity. From sleek and modern aesthetics to dynamic and vibrant experiences, I orchestrate designs that make hearts skip a beat and minds ignite with curiosity.</p>
+          <p>I leverage the full power of Adobe and Figma to craft compelling and impactful visuals that leave a lasting impression. With a relentless focus on enhancing business brands, I pour my passion into creating designs that are not only visually stunning but also strategically aligned with business goals. Immersing myself in the nuances of color, typography, and imagery, I meticulously curate every detail to bring a brand's unique identity to life. Whether it’s sleek modern aesthetics or bold, vibrant experiences, I design with purpose, sparking curiosity and making a lasting connection with audiences.</p>
           
        
       </div>
