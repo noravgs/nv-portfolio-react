@@ -11,11 +11,12 @@ const Skills = () => {
     <div></div>
      <div className='skills w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-6'>
        <p className='text-4xl font-bold inline border-b-4 border-[#ade1e5]'>Skills</p>
-      <p className='sm:text-center text-3xl font-bold py-6'>// My tech languages, frameworks, and tools. </p>
+      <p className='sm:text-center text-3xl font-bold py-6'>// My tech languages, frameworks, marketing and design tools. </p>
        <div className="skillsGrid">
                 {/*  Create a div and give it a class of skillsGrid for styling */}
             
                 {/*  Let's render multiple copies of the Skill component. Make sure you update the source, alt, and title for each icon */}
+                <Skill source="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="The logo icon for wordpress" title="Wordpress"/>
                 <Skill source="https://www.svgrepo.com/show/354512/vercel.svg" alt="The logo icon for vercel" title="Vercel"/>
                 <Skill source="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="The logo icon for Next" title="Next"/>
                 <Skill source="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="The logo icon for typescript" title="TypeScripts"/>
@@ -32,6 +33,7 @@ const Skills = () => {
                <Skill source="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="The logo icon for figma" title="Figma"/>
                <Skill source="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="The logo icon for illustrator" title="Illustrator"/>
                <Skill source="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="The logo icon for photoshop" title="Photoshop"/>
+               <Skill source="https://upload.wikimedia.org/wikipedia/commons/2/22/Klaviyo-primary-logo-charcoal.svg" alt="The logo icon for klaviyo" title="klaviyo"/>
 
                
             </div>            

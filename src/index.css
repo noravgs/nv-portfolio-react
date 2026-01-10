@@ -19,7 +19,7 @@
  background-repeat: no-repeat;
  background-size: cover;
  background-position: center;
- height: 250px;
+ height: 150px;
 }
 
 .content-div:hover {
@@ -29,6 +29,7 @@
      hsla(167, 64%, 30%, 0.8)   
  )!important;
 }
+
 /* Small Screens max width 640px */
 @media screen and (max-width: 640px) {
  .skillsGrid{
@@ -39,8 +40,8 @@
    height: auto;
  }
 .skillsGrid img {
- height: 75px;
- width: 75px;
+ height: 50px;
+ width: 50px;
 }
 .skills{
  background-color: #73AB84;

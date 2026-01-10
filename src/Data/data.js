@@ -9,47 +9,54 @@ import Trillion from '../assets/trillion.png'
 import TalkTek from '../assets/ttshop.png'
 import Algo from '../assets/algo.png'
 import AlgoF from '../assets/algof.png'
+import EBI from '../assets/EBI-website.png'
 
 export const data=[
     {
         id:1,
+        name:"Empowerbrokerage Inc. - FMO WordPress Website",
+        image:EBI,
+        live:"https://empowerbrokera.com",
+    },
+    {
+        id:2,
         name:"AlgoArchive - Google & Firefox Extension",
         image:Algo,
         live:"https://algoarchive.org",
     },
     {
-        id:2,
+        id:3,
         name:"Algo Flashcards - AI Integration ",
         image: AlgoF,
         live:"https://algoarchive-flashcards-beta.vercel.app/",
     },
     {
-        id:3,
+        id:4,
         name:"Trillion Technologies - B2B Website",
         image:Trillion,
         live:"https://trillionnow.com",
     },
     {
-        id:4,
+        id:5,
         name:"TalkTek - B2C Shopify",
         image:TalkTek,
         live:"https://talktek.com",
     },
     {
-        id:5,
+        id:6,
         name:"MVC Full-Stack Application",
         image:Bb,
         github:"https://github.com/noravgs/business-boost",
         // live:"https://business-boost.cyclic.app/",
     },
     {
-        id:6,
+        id:7,
         name:"Webflow E-commerce Site",
         image:Geisha,
         live:"https://geisha-beauty.webflow.io/",
     },
     {
-        id:7,
+        id:8,
         name:"WIP Coffee Ordering and Delivery React Application",
         image:instant,
         github:"https://github.com/noravgs/instant-cafe",
